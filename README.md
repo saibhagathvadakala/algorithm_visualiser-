@@ -13,7 +13,7 @@ Welcome to the Algorithm Visualizer, an interactive web application that helps y
 
 ## Try It Out
 
-You can experience the Algorithm Visualizer by visiting the [GitHub Pages]() (to be added) link.
+You can experience the Algorithm Visualizer by visiting the [GitHub Pages](https://alextutruong.github.io/sorting-algorithm-visualizer/) (to be added) link.
 
 ### Or if you would like to run it yourself you can follow the instructions below.
 
