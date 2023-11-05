@@ -1,0 +1,36 @@
+.speedSelect {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.speedSlider {
+    margin-top: 5px;
+    background: linear-gradient(to right, #ff5a45, #5cff7b);
+    width: 75%;
+    height: 5px;
+    border: none;
+    border-radius: 4px;
+    -webkit-appearance: none;
+    appearance: none;
+}
+
+.speedSlider::-webkit-slider-thumb {
+    width: 16px;
+    height: 16px;
+    background: #f0f0f0 ;
+    border: 1px solid #053a5f;
+    border-radius: 50%;
+    cursor: pointer;
+    -webkit-appearance: none;
+    appearance: none;
+}
+
+
+p {
+    margin: 0;
+}
+
+.speedWarning {
+    font-size: 0.875em;
+}

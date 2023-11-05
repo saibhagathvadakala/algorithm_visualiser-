@@ -1,0 +1,34 @@
+.display {
+    height: 100%;
+    width: 100%;
+}
+
+.list{
+    display: flex;
+    flex-direction: row;
+    width: 95%;
+    height: inherit;
+    padding-inline: 2.5%;
+    align-items: flex-end;
+}
+
+.cell {
+    width: 10%;
+    height: 100%;
+    background-color: antiquewhite;
+    border: 1px solid black;
+}
+
+.cell.current {
+    width: 10%;
+    height: 100%;
+    background-color: red;
+    border: 1px solid black;
+}
+
+.cell.done{
+    width: 10%;
+    height: 100%;
+    background-color: green;
+    border: 1px solid black;
+}

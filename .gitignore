@@ -1,0 +1,64 @@
+# Ignore dependencies
+node_modules/
+npm-debug.log
+
+# Ignore build output
+dist/
+build/
+
+# Ignore environment-specific .env files
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Ignore Mac-specific files
+.DS_Store
+
+# Ignore user-specific files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Ignore TypeScript source maps
+*.js.map
+*.js.LICENSE
+*.js.br
+*.tsbuildinfo
+
+# Ignore build output from create-react-app
+coverage/
+
+# Ignore logs and debug output
+logs
+*.log
+
+# Ignore editor-specific files
+.vscode/
+
+# Ignore project-specific files
+.env.local
+.env.development
+.env.development.local
+.env.test
+.env.test.local
+.env.production
+.env.production.local
+
+# Ignore Yarn's "generated" files
+yarn-error.log
+.pnp.*
+.pnp.js
+
+# Ignore yarn v2
+.yarn/cache
+.yarn/unplugged
+.yarn/build-state.yml
+.yarn/install-state.gz
+
+# Ignore ESLint cache
+eslintcache/
+
+# Ignore output of `yarn list` (khaledhosny)
+.yarn-metadata.json
+.yarn-integrity

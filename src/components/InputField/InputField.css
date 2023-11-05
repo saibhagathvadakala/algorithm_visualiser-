@@ -1,0 +1,33 @@
+.inputInterface {
+    display: flex;
+    flex-direction: column;
+    margin-inline: 12%;
+    top: 50%;
+    transform: translateY(-50%);
+    position: relative;
+    align-items: center;
+    gap: 15px;
+}
+
+.randomizeButton {
+    margin-block: 8px;
+    width: 70%;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+.randomizeButton:hover {
+    border: 1px solid #888888;
+}
+
+.sortButton {
+    margin-block: 8px;
+    width: 70%;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+.sortButton:hover {
+    background-color: rgb(130, 190, 130);
+    border: 1px solid #888888;
+}

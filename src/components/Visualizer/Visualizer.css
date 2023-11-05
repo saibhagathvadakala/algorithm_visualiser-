@@ -1,0 +1,57 @@
+.title {
+    height: 8vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(5px + 2vmin);
+    color: white;
+}
+
+.visualizer {
+    display: flex;
+    flex-direction:row;
+    height: calc(100vh - 8vh);
+}
+
+.rightSide {
+    background-color: rgb(107, 107, 107);
+    width: 20%;
+    height: 100%;
+
+    .controls {
+        height: 100%;
+        position: relative;
+    }
+}
+
+.leftSide {
+    background-color: rgb(82, 82, 82);
+    flex-grow: 1;
+    width: 80%;
+    height: 100%;
+
+    .visualization {
+        width: 100%;
+        height: 100%;
+    }
+}
+
+.footer {
+    height: 8vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: calc(1px + 2vmin);
+}
+
+a {
+    color: white;
+    text-decoration: underline;
+}
+
+a:hover {
+    color: white;
+    text-decoration: underline;
+    font-weight: bold;
+}
