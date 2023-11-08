@@ -2,6 +2,13 @@
 
 Welcome to the Algorithm Visualizer, an interactive web application that helps you understand and visualize various sorting algorithms. It was created with the intention of enhancing my knowledge of React and learning TypeScript.
 
+## Try It Out
+
+### You can experience the Algorithm Visualizer by visiting the [GitHub Pages](https://alextutruong.github.io/sorting-algorithm-visualizer/) link.
+
+### Or if you would like to run it yourself you can follow the [instructions below](#getting-started).
+
+
 ## Features
 
 - Choose from a variety of sorting algorithms, including Bubble Sort, Quick Sort, Insertion Sort, Merge Sort, Heap Sort, and Selection Sort.
@@ -10,12 +17,6 @@ Welcome to the Algorithm Visualizer, an interactive web application that helps y
 - Randomize the array with a single click to explore different scenarios.
 - Watch as the application visually demonstrates each step of the selected sorting algorithm, providing a deeper understanding of how it works.
 - Responsive user interface for an optimal viewing experience on different devices.
-
-## Try It Out
-
-You can experience the Algorithm Visualizer by visiting the [GitHub Pages](https://alextutruong.github.io/sorting-algorithm-visualizer/) link.
-
-### Or if you would like to run it yourself you can follow the instructions below.
 
 ## Getting Started
 
