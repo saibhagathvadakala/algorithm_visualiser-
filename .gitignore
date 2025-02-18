@@ -1,4 +1,4 @@
-# Ignore dependencies
+# Ignore dependenciess
 node_modules/
 npm-debug.log
 
