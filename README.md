@@ -5,7 +5,7 @@ Welcome to the Algorithm Visualizer, an interactive web application that helps y
 ## Try It Out
 
 
-### Or if you would like to run it yourself you can follow the [instructions below](#getting-started).
+### if you want to run it yourself you can follow the [instructions below](#getting-started).
 
 
 ## Features
